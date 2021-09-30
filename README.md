@@ -32,6 +32,5 @@ For the purposes of this demonstration, I use only 5000 rows
 
 ### Embeddings
 - Use either keywords or create n-grams for phrases
-
-### Analysis
--
+- Implemented bag-of-words frequency embedding 
+- Word2Vec
